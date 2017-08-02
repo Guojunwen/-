@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Guojunwen/guojunwen.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Guojunwen/guojunwen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Welcome to YM
+YM战队由2013年1月16日在四川自贡成立。创始人MKP队长，首次成立后两个月在MCL战队联赛第七赛季中晋级C级。在2016年后重归MCL联赛由Lovelin和其余领队带领下，用时三个赛季仅有两负的优秀战绩在第十八赛季中晋级到B级联赛中。
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+QQ群：319667280
+YM战队全体人员欢迎您的加入
